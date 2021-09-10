@@ -1,2 +1,2 @@
 ## Web ARのお試し
-[サイトはこちら](fig/qr.png)
+![サイトはこちら](fig/qr.png)
